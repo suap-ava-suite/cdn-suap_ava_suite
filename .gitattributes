@@ -1,0 +1,9 @@
+# Estáticos de terceiros publicados pelo collectstatic: não contam nas estatísticas de linguagem
+**/admin/** linguist-vendored
+**/unfold/** linguist-vendored
+**/django_extensions/** linguist-vendored
+**/import_export/** linguist-vendored
+**/debug_toolbar/** linguist-vendored
+**/safedelete/** linguist-vendored
+**/dist/** linguist-vendored
+**/vendors/** linguist-vendored
